@@ -8,7 +8,7 @@ June 10, 2022
 Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+To write Python code to import US bike share data and answer few questions by computing descriptive statistics
 
 ### Files used
 Include the files used
