@@ -13,7 +13,7 @@ month_data =['january','february','march''april','may','june','all']
 #list of validate user entry for day of week
 weekday_data =['monday','tuesday','wednesday','thursday','friday','saturday','sunday','all']
 
-
+#Code to filter dataset based on city, month, and day
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
