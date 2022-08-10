@@ -7,7 +7,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
-#list of validate user entry for month
+#list to validate user entry for month
 month_data =['january','february','march''april','may','june','all']
 
 #list of validate user entry for day of week
