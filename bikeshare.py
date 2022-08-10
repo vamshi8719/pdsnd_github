@@ -2,17 +2,18 @@ import time
 import pandas as pd
 import numpy as np
 
+#Dicitionary with data files used for the project
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
-#list of validate user entry for month
+#list to validate user entry for month
 month_data =['january','february','march''april','may','june','all']
 
 #list of validate user entry for day of week
 weekday_data =['monday','tuesday','wednesday','thursday','friday','saturday','sunday','all']
 
-
+#Code to filter dataset based on city, month, and day
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
