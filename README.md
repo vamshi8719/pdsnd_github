@@ -2,7 +2,7 @@
 
 ### Date created
 Include the date you created this project and README file.
-June 10, 2022
+June 10, 2022 (Project Submitted Date)
 
 ### Project Title
 Explore US Bikeshare Data
